@@ -1,0 +1,42 @@
+* {
+    margin: 10px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    min-width: 600px;
+    margin: 10px auto;
+    text-align: center;
+    background-color: #ddd;
+    border-radius: 2px;
+    padding: 5px;
+}
+
+.button {
+    cursor: pointer;
+    background-color: #5BA3F5;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    margin: 10px auto;
+    text-align: center;
+    line-height: 50px;
+}
+
+.button:hover {
+    background-color: #8ABBF2;
+}
+
+img {
+    border-radius: 50%;
+}
+
+h1 {
+    letter-spacing: 3px;
+    color: #333;
+}
+
+body {
+    background-color: #ccc;
+}
